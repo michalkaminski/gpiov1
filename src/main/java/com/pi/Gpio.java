@@ -1,3 +1,5 @@
+package com.pi;
+
 import com.pi4j.io.gpio.GpioController;
 import com.pi4j.io.gpio.GpioFactory;
 import com.pi4j.io.gpio.GpioPinDigitalOutput;
@@ -10,7 +12,7 @@ import com.pi4j.io.gpio.RaspiPin;
  *
  * @author Robert Savage
  */
-public class ControlGpioExample {
+public class Gpio {
 
     public static void main(String[] args) throws InterruptedException {
 
