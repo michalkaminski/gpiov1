@@ -1,0 +1,1 @@
+sudo java -jar target/pi4led-1.0-SNAPSHOT.jar
